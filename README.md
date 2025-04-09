@@ -7,7 +7,7 @@
 ---
 ## 팀명 소개
 - **이름**: A.C.Y.
-- **뜻** Ask. Care. Yield.
+- **뜻**: Ask. Care. Yield.
 - 문제를 묻고(Ask), 사람을 배려하며(Care), 의미 있는 결과를 만든다(Yield).
 
 ---
